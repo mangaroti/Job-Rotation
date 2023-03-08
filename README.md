@@ -88,7 +88,7 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
 RESPOSTA: 
-# Definindo a string a ser invertida
+# Definindo a string a ser invertid
 string_original = "hello world"
 
 # Inicializando uma string vazia para armazenar a string invertida
